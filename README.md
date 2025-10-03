@@ -1,8 +1,7 @@
-# jkhybtgrvce# proxy-bot
+# proxy-bot
 ProxyBot is a simple discord bot which scrapes proxies from the web!
 
 # Useful links
-Join the [support server](https://discord.gg/rX8mmXrQce) now!
 
 Invite the official bot [here](https://discord.com/api/oauth2/authorize?client_id=809110849209106473&permissions=8&scope=bot) :) *Bot's prefix is `.`*
 
